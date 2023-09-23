@@ -1,0 +1,54 @@
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #container{
+    width: 699px;
+    height: 664px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid #D434FE;
+    background: rgba(255, 255, 255, 0.01);
+    text-align: center;
+  }
+  #emoji{
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+  }
+  #congratMessage2 {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: -25px;
+  }
+  
+  #button{
+    width: 574px;
+    height: 53px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: linear-gradient(270deg, #903AFF 0%, #D434FE 56.42%, #FF26B9 99.99%, #FE34B9 100%);
+    color: #FFFFFF;
+    margin-top: 40px;
+  }
+  #congratMessage {
+    color:#FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 27px;
+  }
+  #id1{
+    color:#FFFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
